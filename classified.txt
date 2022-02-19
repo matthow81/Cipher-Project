@@ -1,5 +1,7 @@
 Classified data---Eyes only.
 
-Let's add more data to try out 1789!~
+This is a test file to observe the effect of the chosen cypher.
 
-k
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+1234567890
